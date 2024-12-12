@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/web_video_server-release.git
 tracks:
   dashing:
     actions:
