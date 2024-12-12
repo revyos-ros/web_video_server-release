@@ -1,3 +1,26 @@
+## web_video_server (humble) - 2.0.1-2
+
+The packages in the `web_video_server` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble web_video_server --override-release-repository-push-url git@github.com:revyos-ros/web_video_server-release.git` on `Thu, 12 Dec 2024 06:43:39 -0000`
+
+The `web_video_server` package was released.
+
+Version of package(s) in repository `web_video_server`:
+
+- upstream repository: https://github.com/RobotWebTools/web_video_server.git
+- release repository: https://github.com/revyos-ros/web_video_server-release.git
+- rosdistro version: `2.0.1-1`
+- old version: `2.0.1-1`
+- new version: `2.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## web_video_server (humble) - 2.0.1-1
 
 The packages in the `web_video_server` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble web_video_server` on `Sat, 26 Oct 2024 09:53:56 -0000`
